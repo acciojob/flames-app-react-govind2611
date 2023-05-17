@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './style.css';
+
 
 function Flame() {
     let [firstName, setFirstName] = useState('');
